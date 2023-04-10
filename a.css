@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(24, 117, 163);
+    margin: auto;
+}
+
+
+.image-profile {
+    float:left;
+    margin-right: 32px;
+    width: 300;
+    height: 300;
+    padding-top: 6%;
+}
+
+
+div{
+    background-color: whitesmoke;
+    border: 3px solid black;
+    padding: 12px;
+    padding-top:initial;
+    width: 90%;
+    margin: 0 auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+fieldset{
+    margin-bottom: 13px;
+}
+legend{
+    background-color: rgb(170, 204, 245);
+    padding: 6px;
+    border-radius: 22px;
+    font-weight: bold;
+}
+
+
+.skills {
+    font-weight: normal;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+span {
+    font-weight: bolder;
+}
+
+
+.name{
+    width: 2.1%;
+    height: 2.1%;
+}
+
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background-color: rgb(116, 116, 224);
+    padding: 3px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin:auto
+}
